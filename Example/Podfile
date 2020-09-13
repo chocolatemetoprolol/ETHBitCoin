@@ -1,0 +1,8 @@
+use_frameworks!
+
+  target 'ETHBitCoin_Example' do
+  pod 'ETHBitCoin', :path => '../'
+end
+  target 'ExampleOc' do
+  pod 'ETHBitCoin', :path => '../'
+end
