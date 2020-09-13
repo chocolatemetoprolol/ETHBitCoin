@@ -22,7 +22,7 @@ pod 'ETHBitCoin'
 
 ## Author
 
-chocolateloveme@163.com, chocolateloveme@126.com
+pavlo.bojkoo@gmail.com, chocolateloveme@126.com
 
 ## License
 
