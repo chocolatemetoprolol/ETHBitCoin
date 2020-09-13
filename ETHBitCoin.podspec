@@ -28,8 +28,6 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/chocolatemetoprolol/ETHBitCoin.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_version= '5'
-  s.static_framework  = true
-
   s.ios.deployment_target = '11.0'
   s.source_files = 'ETHBitCoin/Classes/**/*'
   s.dependency 'secp256k1.swift', '~> 0.1.4'
